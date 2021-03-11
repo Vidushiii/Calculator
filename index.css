@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://www.freevector.com/uploads/vector/preview/30355/Fluid_Gradient_Background.jpg);
+    font-style: italic;
+    font-weight: bold;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(250, 248, 244);
+}
+
+#calci{
+    height: 550px;
+    width: 450px;
+    background-color: thistle;
+    position: relative;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: wheat;
+}
+#result{
+    height: 120px;
+    background-color: whitesmoke;
+    margin: 10px;
+    margin-top: 10px;
+}
+#history{
+    height: 50px;
+    
+    padding: 5px;
+    margin: 10px;
+    text-align: right;
+}
+#output{
+    height: 40px;
+    
+    margin: 10px;
+    margin-top: -20px;
+    text-align: right;
+    font-weight: bolder;
+    font-size: 30px;
+    border-top:1px dashed  rgb(68, 10, 68);
+}
+#keyboard{
+    height: 420px;
+    background-color: whitesmoke;
+    margin: 10px;
+    margin-top: 10px;
+    align-content: center;
+}
+.operator, .number, .empty{
+    height: 70px;
+    width: 80px;
+    margin: 7px;
+    float: left;
+    border-radius: 50%;
+    border-color: rgb(68, 10, 68);
+    font-weight: bold;
+    font-size: 25px;
+}
