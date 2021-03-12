@@ -1,3 +1,10 @@
 # Calculator
-It is a basic calculator developed using Javascript.
-![image](https://user-images.githubusercontent.com/47902451/110924298-e605f980-8347-11eb-8306-af1b2bade199.png)
+A javascript Calculator..
+
+![image](https://user-images.githubusercontent.com/47902451/110924591-3bdaa180-8348-11eb-9279-614abe10b6a4.png)
+
+Tech Stack -
+
+- HTML
+- CSS
+- JAVASCRIPT
